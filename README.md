@@ -1,16 +1,42 @@
 ## Hi there 👋
+# Data Analyst | Operations & Logistics Specialist
 
-<!--
-**aasistha49/aasistha49** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Hub Manager** at multinational ecommerce company with 8+ years of experience in operations, 
+logistics, and ecommerce management.
 
-Here are some ideas to get you started:
+## Specialization
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📊 Operations Analytics
+- 🚚 Logistics Data & Optimization
+- 📈 Sales & Revenue Analysis
+- 👥 Customer Analytics
+- 🎯 Data-Driven Decision Making
+
+## Skills
+
+Python • SQL • Power BI • Data Visualization • Excel • Statistical Analysis
+
+Operations Management • Logistics Analytics • Business Intelligence
+
+## About
+
+Currently transitioning to data analytics to leverage my operational expertise and data skills.
+Looking for freelance projects in operations analytics, logistics data, and business analytics.
+
+## Contact
+
+📧 Email: ashishshrestha258@outlook.com  
+💼 LinkedIn: https://www.linkedin.com/in/aashish-shrestha-277b1711a/
+💻 Upwork: https://www.upwork.com/freelancers/~01b0f9d91802a1fcc1?mp_source=share
+
+---
+
+**Available for freelance projects**
+
+This version:
+✓ No projects (you'll add later)
+✓ Focused on your experience & specialization
+✓ Clear for recruiters to understand your background
+✓ Shows your unique angle (operations + data)
+✓ Short & professional
+Better?

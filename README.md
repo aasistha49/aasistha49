@@ -30,13 +30,3 @@ Looking for freelance projects in operations analytics, logistics data, and busi
 💻 Upwork: https://www.upwork.com/freelancers/~01b0f9d91802a1fcc1?mp_source=share
 
 ---
-
-**Available for freelance projects**
-
-This version:
-✓ No projects (you'll add later)
-✓ Focused on your experience & specialization
-✓ Clear for recruiters to understand your background
-✓ Shows your unique angle (operations + data)
-✓ Short & professional
-Better?
